@@ -1,0 +1,10 @@
+{
+    "name": "villas/git",
+    "description": "descr",
+    "autoload": {
+        "psr-4": {
+            "Villas\\Git\\": "src/"
+        }
+    },
+    "require": {}
+}
