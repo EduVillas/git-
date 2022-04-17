@@ -1,10 +1,10 @@
 {
-    "name": "villas/git",
-    "description": "descr",
-    "autoload": {
-        "psr-4": {
-            "Villas\\Git\\": "src/"
+    "name": "villas/gitmain",
+    "authors": [
+        {
+            "name": "villasweb",
+            "email": "villasweb@gmail.com"
         }
-    },
+    ],
     "require": {}
 }
